@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on Salesforce LWC<br>👯 I’m looking to collaborate more to open source ML projects.<br>🤝 I’m looking for help to know more about data.<br>🌱 I’m currently learning Data Science with ML.<br>💬 Ask me about tech, fitness, investing.<br>⚡ Every day is a learning day.<br>😄 Pronouns: She/Her
+# 👩‍💻 About Me:
+🔭 I’m currently working on Salesforce LWC<br>👯 I’m looking to collaborate more to open source ML projects.<br>🤝 I’m looking for help to know more about data.<br>🌱 I’m currently learning Data Science with ML.<br>💬 Ask me about tech, fitness, investing.<br>⚡ Every day is a learning day.
 
 
 ## 🌐 Socials:
