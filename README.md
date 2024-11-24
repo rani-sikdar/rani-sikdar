@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👩‍💻 About Me:
 ### Hi there! 👋<br><br>I'm a Data and Salesforce Analyst & Aspiring Scientist-- Transforming Numbers into Narratives  <br><br>🔭 I’m currently working on creating impactful Power BI dashboards and data-driven solutions.  <br>👯 I’m looking to collaborate on data science and data analytics projects, especially those that involve Python,Tensorflow & Pytorch, SQL, or Power BI. <br>🌱 I’m currently woking on Machine Learning & Deep learning techniques Implementation to bridge the gap between theoretical models and real-world applications.  <br>💬 Ask me about Python programming, Power BI dashboard creation, and SQL for data manipulation and analysis.  <br>⚡ Fun fact: I love turning raw data into compelling stories—data visualization is my superpower! <br>📫 How to reach me rssikdarji@gmail.com
 
 ## 🌐 Socials:
